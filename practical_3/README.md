@@ -87,6 +87,6 @@ final HTTP request and response here:
 
 ## Notes
 
-- Ensure Docker and Docker Compose are installed.
-- Consul must be running for service discovery to work.
 - The API Gateway will not function correctly if services are not registered with Consul.
+
+- [Link to the actual repository](https://github.com/SDGV2734/WEB303_practical_3.git)
